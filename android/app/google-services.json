@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "546551219242",
+    "firebase_url": "https://movieku-e0d00-default-rtdb.firebaseio.com",
+    "project_id": "movieku-e0d00",
+    "storage_bucket": "movieku-e0d00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546551219242:android:62e97265bc134585f66f53",
+        "android_client_info": {
+          "package_name": "com.ifanbf.tiketbioskop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546551219242-o53o867qn5gq7mua7u7nslu66ql002c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfYyRhS7DxSk2OXVVacwuPzWaDCIHA6gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546551219242-o53o867qn5gq7mua7u7nslu66ql002c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
